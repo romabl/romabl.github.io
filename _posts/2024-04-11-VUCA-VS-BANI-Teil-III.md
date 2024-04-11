@@ -4,7 +4,7 @@ title: "VUCA vs. BANI Teil III: Umgang mit VUCA in der organisationalen Theorie 
 author: "Marco Rost"
 categories: journal
 tags: [VUCA,BANI]
-image: cutting.jpg
+image: Team1.jpg
 ---
 In der sich rasant wandelnden Landschaft der modernen Geschäftswelt stehen Einzelpersonen und Organisationen an der Schwelle zu unerforschten Territorien. Die VUCA-Welt – ein Akronym für Volatilität, Unsicherheit, Komplexität und Ambiguität – prägt diese neue Ära mit ihrer dynamischen und unsicheren Natur (Schröder, 2022, 43-45). Diese unvorhersehbaren Veränderungen, sei es durch Marktschwankungen oder technologischen Fortschritt, fordern Unternehmen heraus, ihre Strategien ständig zu überdenken und anzupassen (Schröder, 2022, 43-45).
 
