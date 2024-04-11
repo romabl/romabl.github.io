@@ -4,7 +4,7 @@ title: "VUCA vs. BANI Teil I: Was ist VUCA und woher kommt es?"
 author: "Marco Rost"
 categories: journal
 tags: [VUCA,BANI]
-image: cutting.jpg
+image: thoughtprovoking.jpg
 ---
 
 # Zielsetzung der Artikelserie VUCA vs. BANI
