@@ -4,7 +4,7 @@ title: "VUCA vs. BANI Teil II: Leben in der VUCA Welt und die Auswirkungen auf d
 author: "Marco Rost"
 categories: journal
 tags: [VUCA,BANI]
-image: cutting.jpg
+image: Team_Abstract.jpg
 ---
 In einer Welt, die sich ständig und in unvorhersehbarer Weise verändert, stehen Individuen vor neuen, herausfordernden Anforderungen. Die VUCA-Welt – ein Akronym für Volatilität, Unsicherheit, Komplexität und Ambiguität – prägt unser Zeitalter und erfordert eine Neubewertung traditioneller Erfolgsstrategien. Dieser Blog-Artikel beleuchtet, wie sich diese Dynamiken auf die Arbeitswelt auswirken und welche Fähigkeiten und Strategien Mitarbeitende entwickeln müssen, um in dieser neuen Realität erfolgreich zu sein.
 
