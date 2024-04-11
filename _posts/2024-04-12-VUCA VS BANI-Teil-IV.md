@@ -6,3 +6,4 @@ categories: journal
 tags: [VUCA,BANI]
 image: cutting.jpg
 ---
+test
