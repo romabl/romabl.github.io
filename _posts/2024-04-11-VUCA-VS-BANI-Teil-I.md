@@ -66,3 +66,22 @@ Schulze et al. (2021, S. 2), die sich auf Bennett und Lemoine (2014a, S. 27) bez
 Wang et al. (2022, S. 1533) erweitern das Konzept der Ambiguität, indem sie es als eine Vermischung verschiedener Bedingungen und Kausalitäten beschreiben. Diese Sichtweise hebt die Komplexität hervor, die entsteht, wenn unterschiedliche Faktoren ineinandergreifen und es schwierig wird, klare Schlussfolgerungen zu ziehen.
 
 Zusammengefasst wird Ambiguität in der Literatur als ein Zustand beschrieben, der durch Unklarheiten, eine hohe Anzahl möglicher Ergebnisse und die Vermischung von Bedingungen und Kausalitäten gekennzeichnet ist. Diese Definitionen verdeutlichen die vielschichtigen Herausforderungen, die Ambiguität in Entscheidungsfindungsprozessen und der strategischen Planung mit sich bringt. Sie betonen die Notwendigkeit für Organisationen, Fähigkeiten zu entwickeln, die es ihnen ermöglichen, in einem von Ambiguität geprägten Umfeld effektiv zu navigieren und zu agieren. Die Auseinandersetzung mit Ambiguität erfordert ein tiefes Verständnis der zugrundeliegenden Unsicherheiten und die Entwicklung von Strategien, die Flexibilität und Anpassungsfähigkeit priorisieren.
+
+
+# Literaturverzeichnis
+
+Cascio, J. (2020). Facing the Age of Chaos. Medium, Abgerufen am 17.08.2023 von https://medium.com/@cascio/facing-the-age-of-chaos-b00687b1f51d
+Rascher, S. (2019). Just Culture in Organisationen: Wie Piloten eine konstruktive Fehler- und Vertrauenskultur schaffen. Wiesbaden: Springer.
+Barber, H.F. (1992). Developing Strategic Leadership: The US Army War College Experience. Journal of Management Development, 11(6), 4-12.
+Bennis, W. & Nanus, B. (1985). Leaders: The strategies for taking charge. New York: Harper & Row.
+Bodenhausen, G.V. & Peery, D. (2009). Social categorization and stereotyping in vivo: the VUCA challenge. Social and Personality Psychology Compass, 3(2), 133-151.
+Billiones, R. (2019). Thriving (and not just surviving) in a VUCA healthcare industry. Medical Writing, 28(1), 67-69.
+Geysi, N., Türkel, S. & Uzunoglu, E. (2019). Unveiling corporate values in a crisis-prone world: a cross-cultural study. Corporate Communications: An International Journal, 25(1), 67-86.
+Horstmeyer, A. (2019). How VUCA is changing the learning landscape-and how curiosity can help. Development and Learning in Organizations, 33(1), 5-8.
+Patnaik, S. (2020). Applied machine learning and management of volatility, uncertainty, complexity & ambiguity (V.U.C.A). Journal of Intelligent & Fuzzy Systems, 39, 1409-1416.
+Andrade, C.T.A., Gusmão, A.P.H. & Silva, W. (2021). World class manufacturing performance measurement using a maturity model and the FlowSort method. International Journal of Production Research, 59(24), 7374-7389.
+Schulze, C., Welker, A., Kühn, A., Schwertz, R., Otto, B., Moraldo, L., Dentz, U., Arends, A., Welk, E., Wendorff, J., Koller, H., Kuss, D. & Ries, M. (2021). Public health leadership in a VUCA world environment: lessons learned during the regional emergency rollout of SARS-CoV-2 vaccinations in Heidelberg, Germany, during the COVID-19 pandemic. Vaccines, 9(8), 1-14.
+Bennett, N. & Lemoine, G.J. (2014a). What VUCA Really Means for You. Harvard Business Review, 92(1/2), 27.
+Wang, C., Dai, M., Fang, Y. & Liu, C. (2022). Ideas and methods of lean and agile start-up in the VUCA Era. International Entrepreneurship and Management Journal, 18, 1527-1544.
+Hernández-Santibánez, N. & Mastrolia, T. (2019). Contract theory in a VUCA world. SIAM Journal on Control and Optimization, 57(4), 3072-3100.
+Patnaik, S. (2020). Applied machine learning and management of volatility, uncertainty, complexity & ambiguity (V.U.C.A). Journal of Intelligent & Fuzzy Systems, 39, 1409-1416.
