@@ -4,7 +4,7 @@ title: "VUCA vs. BANI Teil V: Leben in der BANI Welt und die Auswirkungen auf da
 author: "Marco Rost"
 categories: journal
 tags: [VUCA,BANI]
-image: Collage.jpg
+image: Default_Explore_the_everchanging_landscape_of_the_business_wor_1.jpg
 ---
 In einer Ära, in der die Grenzen unserer Systeme und Infrastrukturen stetig getestet werden, entpuppt sich die Brüchigkeit als eine der größten Herausforderungen unserer Zeit. Die unermüdliche Jagd nach Effizienz und Maximierung von Gewinnen hat eine Welt geschaffen, die auf dem schmalen Grat zwischen Fortschritt und Zusammenbruch balanciert. Diese Dynamik, eingefangen in den Arbeiten von Cascio (2020), beleuchtet die kritischen Schwachstellen, die entstehen, wenn wir versuchen, aus unseren Systemen den letzten Tropfen Wert zu extrahieren.
 
