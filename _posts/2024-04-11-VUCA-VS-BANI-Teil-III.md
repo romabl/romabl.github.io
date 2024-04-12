@@ -73,3 +73,56 @@ Führungsverhalten: Im VUCA-Umfeld müssen Führungskräfte Systemdenken, Zusamm
 Manager / Mitarbeitende Interaktion: Die Interaktion zwischen Manager und Mitarbeitenden wird als Erfolgsfaktor in VUCA-Zeiten hervorgehoben. Führungskräfte sollten als Vorbilder fungieren, die Fehler zulassen und gleichzeitig Verantwortungsbewusstsein fördern. Eine klare und mutige Vision, kombiniert mit einer kundenorientierten Strategie, ist entscheidend für die Bewältigung von VUCA-Herausforderungen (Das & Ara, 2014, S. 6414).
 
 Die Führung in einer VUCA-Welt erfordert eine Kombination aus verschiedenen Führungsstilen und -kompetenzen, die auf Verantwortung, Vielfalt und effektiver Interaktion basieren. Zukünftige Führungskräfte müssen über Schlüsselkompetenzen wie strategisches Denken, Kommunikationsfähigkeit, zwischenmenschliche Fähigkeiten und Anpassungsfähigkeit verfügen, um erfolgreich zu sein. Die Förderung einer Kultur der Zusammenarbeit und des gemeinsamen Problemlösens, ergänzt durch die Kunst des Geschichtenerzählens, spielt eine entscheidende Rolle bei der Motivation der Mitarbeitenden, sich in die Unternehmenskultur einzubringen und Veränderungen herbeizuführen.
+
+# Literaturverzeichnis
+
+Aycan, Z. & Shelia, S. (2019). "Leadership? No, Thanks!” A New Construct: Worries About Leadership. European Management Review, 16(1), 21-35.
+
+Bennett, N. & Lemoine, G.J. (2014a). What VUCA Really Means for You. Harvard Business Review, 92(1/2), 27.
+
+Castillo, E.A. & Trinh, M.P. (2 (2019). talyzing Capacity: Absorptive, Adaptive and Generative Leadership. Journal of Organizational Change Management, 32(2), 356-
+376.
+
+Cousins, B. (2018). Design Thinking: Organizational Learning in VUCA Environments. Academy of Strategic Management Journal, 17(2), 1-18.
+
+Das, K.K. & Ara, A. (2014). Leadership in VUCA World: A Case of Lenovo. International journal of Current Research, 6(4), 6410-6419.
+
+Evans, S. & Bahrami, H. (2020). Super-Flexibility in Practice: Insights from a Crisis. Global Journal of Flexible Systems Management, 21(3), 207-214.
+
+Freyth, A. & Baltes, G. (2017). Veränderungsintelligenz auf individueller Ebene Teil 2: Persönliche Agilität und agiler führen – Diagnose und Stärkung von persönlicher
+Agiltiät, veränderte Führungsrolle im agilen Kontext. In G. Baltes & A. Freyth (Hrsg.), Veränderungsintelligenz – Agiler, innovativer, unternehmerischer den Wandel unserer Zeit meistern (S. 81-168). Wiesbaden: Springer Fachmedien.
+
+Frynas, J.G., Mol, M.J. & Mellahi, K. (2018). Management Innovation Made in China: Haier’s Rendanheyi. California Management Review, 61(1), 71-93.
+
+Gerhardt, C. (2020). Zeitlose Elemente der Führung. Psychologisch sicher führen im Wandel. Berlin: Springer Fachmedien.
+
+Johansen, B. (2007). Get There Early: Sensing the Future to Compete in the Present. San Francisco: Berrett-Koehler.
+
+Michel, L., Anzengruber, J., Wölfle, M. & Hixson, N. (2018). Under What Conditions Do Rules-Based And Capability-Based Management Modes Dominate?. Risks, 6(2), 1-16.
+
+Millar, C.C.J.M., Groth, O. & Mahon, J.F. (2018). Management Innovation in a VUCA World: Challenges and Recommendations. California Management Review, 61(1), 5-14.
+
+Minciu, M., Berar, F.A. & Dobrea, R.C. (2020). Unternehmensführung Management und Leadership – Strategie - Werkzeuge - Praxis. Management & Marketing. Challenges for the Knowledge Society, 15(2), 236-254.
+
+Mohammed, M. & Viswanathan, R. (2019). Relationship of Authentic Leadership and Organisational Culture with Organisational Innovation in Pharmaceutical Industry. International Journal of Recent Technology and Engineering, 8(4), 637-641.
+
+Raghuramapatruni, R. & Kosuri, S.R. (2017). The Straits of Success in a VUCA World. IOSR Journal of Business and Management, IESMCRC-2017, 16-22.
+
+Rao, I. & Thakur, P. (2019). Kowledge Workers, Organizational Ambidexterity and Sustainability: A Conceptual Framework. International Journal of Business Excellence, 19(3), 415-428.
+
+Rimita, K., Hoon, S.N. & Levasseur, R. (2020). Leader Readiness in a Volatile, Uncertain, Complex, and Ambiguous Business Environment. Journal of Social Change, 12(1), 10-18.
+
+Sarkar, A. (2016). We Live in A VUCA World: The Importance of Responsible Leadership. Development and Learning in Organizations: An International Journal, 30(3), 9-12.
+
+Schröder, T. (2022). Hochsensibilität - Jobchance oder Karrierekiller in der VUCA-Welt. Erfahrungen aus Coaching, Leistungssport und Job. Wiesbaden: Springer Gaber.
+
+Schulze, C., Welker, A., Kühn, A., Schwertz, R., Otto, B., Moraldo, L., Dentz, U., Arends, A., Welk, E., Wendorff, J., Koller, H., Kuss, D. & Ries, M. (2021). Public he-
+alth leadership in a VUCA world environment: lessons learned during the regional emergency rollout of SARS-CoV-2 vaccinations in Heidelberg, Germany, during the COVID-19 pandemic. Vaccines, 9(8), 1-14.
+
+Sharma, S. & Sharma, S.K. (2016). Team Resilience: Scale Development and Validation. Vision-The Journal of Business Perspective, 20(1), 37-53.
+
+Singh, J.P., Chand, P.K., Mittal, A. & Aggarwal, A. (2020). High-Performance Work System and Organizational Citizenship Behaviour at the Shop Floor. Benchmarking, 27(4), 1369-1398.
+
+Srivastava, A.R., Singh, A.K. & Kumar, P. (2016). Creating A More Predictable HR Function. International Journal of Economic Research, 13(5), 2349-2360.
+
+Xing, Y., Liu, Y., Boojihawon-Roshan, D.K. & Tarba, S. (2020). Entrepreneurial team and strategic agility: A conceptual framework and research agenda. Human Resource Management Review, 30(1), 1-10.
