@@ -7,11 +7,11 @@ tags: [VUCA,BANI]
 image: thoughtprovoking.jpg
 ---
 
-# Zielsetzung der Artikelserie VUCA vs. BANI
 In einer Welt, die niemals stillsteht, in der Veränderung die einzige Konstante ist, stehen Organisationen an der Schwelle zu einer Ära voller Herausforderungen und Möglichkeiten. Die Begriffe VUCA und BANI sind zu Leuchtfeuern in dieser stürmischen See geworden, sie leiten Unternehmen durch die Dunkelheit der Unsicherheit und des raschen Wandels. Wie Leuchttürme in der Nacht, bieten sie Orientierung, doch es bedarf scharfsinniger Navigatoren, um die Gewässer sicher zu durchqueren.
 
 Die Abkürzungen VUCA, die für Volatility, Uncertainty, Complexity sowie Ambiguity steht, und BANI, das für Brittle, Anxious, Nonlinear sowie Incomprehensible steht, sind in den letzten Jahren zu zentralen Schlagworten avanciert, die die turbulenten Veränderungen und Unsicherheiten umschreiben, mit denen Unternehmen konfrontiert sind (Cascio, 2020, Abs. 1-48; Rascher, 2019, S. 5). Während das VUCA-Konzept die Volatilität, Unsicherheit, Komplexität und Mehrdeutigkeit in der Geschäftswelt beleuchtet, offeriert BANI eine frische Perspektive auf die Brüchigkeit, Ängstlichkeit, Nichtlinearität und Unverständlichkeit, die Organisationen herausfordern (Cascio, 2020, Abs. 1-48; Rascher, 2019, S. 5).
 
+# Zielsetzung der Artikelserie VUCA vs. BANI
 Diese Blog-Artikelserie hat zum Ziel, die Konzepte VUCA und BANI zu erkunden und miteinander zu vergleichen, wobei der Schwerpunkt auf der Entwicklung von Strategien und Ansätzen liegt, die Organisationen befähigen, sich in diesen dynamischen Umgebungen zu behaupten.Eine besondere Herausforderung dieser Serie liegt darin, dass das BANI-Konzept noch in den Anfängen steckt und wissenschaftliche Veröffentlichungen dazu noch selten sind. Daher wird zunächst die Schaffung eines umfassenden Verständnis des BANI-Konzepts angestrebt. Basierend auf dem aktuellen Stand der wissenschaftlichen Forschung in diesem Bereich sollen praxisrelevante Implikationen identifiziert und herausgearbeitet werden. Diese Implikationen sollen Organisationen dabei unterstützen, sich auf die BANI-Welt vorzubereiten, um langfristige Resilienz und Erfolg sicherzustellen.
 
 # Was ist VUCA und woher kommt es?
