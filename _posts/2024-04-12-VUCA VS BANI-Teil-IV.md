@@ -4,7 +4,7 @@ title: "VUCA vs. BANI Teil IV: Was ist BANI und woher kommt es?"
 author: "Marco Rost"
 categories: journal
 tags: [VUCA,BANI]
-image: cutting.jpg
+image: Collage.jpg
 ---
 # Herkunft des BANI Konzepts
 In einer Welt, in der Chaos und Unvorhersehbarkeit die neuen Leitprinzipien sind, wirft das BANI-Konzept von Jamais Cascio ein dringend benötigtes Licht auf die verborgenen Strukturen hinter dem scheinbaren Durcheinander. Entwickelt von Jamais Cascio, steht BANI für Brittle (Brüchig), Anxious (Ängstlich), Nonlinear (Nichtlinear) und Incomprehensible (Unverständlich) – vier Wörter, die die Essenz der heutigen globalen Herausforderungen einfangen. Dieses Konzept, das ursprünglich 2018 entstand und 2020 unter dem Titel "Facing the Age of Chaos" bekannt wurde, zeichnet ein Bild unserer Welt, das zum Nachdenken anregt und gleichzeitig eine Einladung ist, tiefer zu graben (Cascio, 2020, Abs. 1-48).
