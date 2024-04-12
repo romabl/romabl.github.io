@@ -69,19 +69,17 @@ Zusammengefasst wird Ambiguität in der Literatur als ein Zustand beschrieben, d
 
 
 # Literaturverzeichnis
-
-Cascio, J. (2020). Facing the Age of Chaos. Medium, Abgerufen am 17.08.2023 von https://medium.com/@cascio/facing-the-age-of-chaos-b00687b1f51d
-Rascher, S. (2019). Just Culture in Organisationen: Wie Piloten eine konstruktive Fehler- und Vertrauenskultur schaffen. Wiesbaden: Springer.
+Andrade, C.T.A., Gusmão, A.P.H. & Silva, W. (2021). World class manufacturing performance measurement using a maturity model and the FlowSort method. International Journal of Production Research, 59(24), 7374-7389.
 Barber, H.F. (1992). Developing Strategic Leadership: The US Army War College Experience. Journal of Management Development, 11(6), 4-12.
+Bennett, N. & Lemoine, G.J. (2014a). What VUCA Really Means for You. Harvard Business Review, 92(1/2), 27.
 Bennis, W. & Nanus, B. (1985). Leaders: The strategies for taking charge. New York: Harper & Row.
-Bodenhausen, G.V. & Peery, D. (2009). Social categorization and stereotyping in vivo: the VUCA challenge. Social and Personality Psychology Compass, 3(2), 133-151.
 Billiones, R. (2019). Thriving (and not just surviving) in a VUCA healthcare industry. Medical Writing, 28(1), 67-69.
+Bodenhausen, G.V. & Peery, D. (2009). Social categorization and stereotyping in vivo: the VUCA challenge. Social and Personality Psychology Compass, 3(2), 133-151.
+Cascio, J. (2020). Facing the Age of Chaos. Medium, Abgerufen am 17.08.2023 von https://medium.com/@cascio/facing-the-age-of-chaos-b00687b1f51d
 Geysi, N., Türkel, S. & Uzunoglu, E. (2019). Unveiling corporate values in a crisis-prone world: a cross-cultural study. Corporate Communications: An International Journal, 25(1), 67-86.
+Hernández-Santibánez, N. & Mastrolia, T. (2019). Contract theory in a VUCA world. SIAM Journal on Control and Optimization, 57(4), 3072-3100.
 Horstmeyer, A. (2019). How VUCA is changing the learning landscape-and how curiosity can help. Development and Learning in Organizations, 33(1), 5-8.
 Patnaik, S. (2020). Applied machine learning and management of volatility, uncertainty, complexity & ambiguity (V.U.C.A). Journal of Intelligent & Fuzzy Systems, 39, 1409-1416.
-Andrade, C.T.A., Gusmão, A.P.H. & Silva, W. (2021). World class manufacturing performance measurement using a maturity model and the FlowSort method. International Journal of Production Research, 59(24), 7374-7389.
+Rascher, S. (2019). Just Culture in Organisationen: Wie Piloten eine konstruktive Fehler- und Vertrauenskultur schaffen. Wiesbaden: Springer.
 Schulze, C., Welker, A., Kühn, A., Schwertz, R., Otto, B., Moraldo, L., Dentz, U., Arends, A., Welk, E., Wendorff, J., Koller, H., Kuss, D. & Ries, M. (2021). Public health leadership in a VUCA world environment: lessons learned during the regional emergency rollout of SARS-CoV-2 vaccinations in Heidelberg, Germany, during the COVID-19 pandemic. Vaccines, 9(8), 1-14.
-Bennett, N. & Lemoine, G.J. (2014a). What VUCA Really Means for You. Harvard Business Review, 92(1/2), 27.
 Wang, C., Dai, M., Fang, Y. & Liu, C. (2022). Ideas and methods of lean and agile start-up in the VUCA Era. International Entrepreneurship and Management Journal, 18, 1527-1544.
-Hernández-Santibánez, N. & Mastrolia, T. (2019). Contract theory in a VUCA world. SIAM Journal on Control and Optimization, 57(4), 3072-3100.
-Patnaik, S. (2020). Applied machine learning and management of volatility, uncertainty, complexity & ambiguity (V.U.C.A). Journal of Intelligent & Fuzzy Systems, 39, 1409-1416.
