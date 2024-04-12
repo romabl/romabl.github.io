@@ -6,9 +6,10 @@ categories: journal
 tags: [VUCA,BANI]
 image: Collage.jpg
 ---
-# Herkunft des BANI Konzepts
+
 In einer Welt, in der Chaos und Unvorhersehbarkeit die neuen Leitprinzipien sind, wirft das BANI-Konzept von Jamais Cascio ein dringend benötigtes Licht auf die verborgenen Strukturen hinter dem scheinbaren Durcheinander. Entwickelt von Jamais Cascio, steht BANI für Brittle (Brüchig), Anxious (Ängstlich), Nonlinear (Nichtlinear) und Incomprehensible (Unverständlich) – vier Wörter, die die Essenz der heutigen globalen Herausforderungen einfangen. Dieses Konzept, das ursprünglich 2018 entstand und 2020 unter dem Titel "Facing the Age of Chaos" bekannt wurde, zeichnet ein Bild unserer Welt, das zum Nachdenken anregt und gleichzeitig eine Einladung ist, tiefer zu graben (Cascio, 2020, Abs. 1-48).
 
+# Herkunft des BANI Konzepts
 Jamais Cascio stellte das BANI-Konzept erstmals 2018 auf einer Tagung des Institute for the Future vor, als Teil eines Vortrags, der sich mit den vielfältigen Aspekten globalen Chaos beschäftigte (Cascio, 2022, Abs. 9-13). In seinen Ausführungen beschreibt Cascio das heutige Zeitalter als ein Zeitalter des Chaos, in dem traditionelle Strukturen nicht nur in Frage gestellt, sondern oft gänzlich abgelehnt werden. Die gegenwärtige Realität ist geprägt von einer extremen Komplexität, die sich jeglichen Versuchen, sie zu verstehen oder zu kategorisieren, widersetzt (Cascio, 2020, Abs. 1-10).
 
 Die Dringlichkeit, mit der Cascio die Notwendigkeit betont, unsere Welt und die Formen dieses chaotischen Zeitalters zu durchdringen, wird durch eine Reihe von globalen Krisen unterstrichen. Politisches Chaos, verheerende Klimakatastrophen, eine globale Pandemie und andere Umwälzungen zeigen die Grenzen traditioneller Methoden auf, mit alltäglichen Störungen umzugehen und sie zu interpretieren. Laut Cascio reichen diese Methoden und das Konzept von VUCA – Volatilität, Unsicherheit, Komplexität und Ambiguität – nicht mehr aus, um die beispiellose Desintegration unserer Welt zu erfassen (Cascio, 2020, Abs. 5-48).
